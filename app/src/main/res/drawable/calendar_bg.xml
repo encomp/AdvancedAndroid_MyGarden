@@ -11,16 +11,16 @@
         android:fillColor="#f2f2f2"/>
     <path
         android:pathData="M2.62,25.56h307.76v72.21h-307.76z"
-        android:fillColor="@color/dark_blue"/>
+        android:fillColor="#1976D2"/>
     <path
         android:pathData="m310.38,97.76 l4.17,-5.02 -4.95,-0.89z"
-        android:fillColor="@color/dark_blue"/>
+        android:fillColor="#1976D2"/>
     <path
         android:pathData="m6.8,20.53 l-4.13,5.05 4.92,0.86z"
-        android:fillColor="@color/dark_blue"/>
+        android:fillColor="#1976D2"/>
     <path
         android:pathData="M6.81,20.53h307.76v72.21h-307.76z"
-        android:fillColor="@color/dark_blue"/>
+        android:fillColor="#1976D2"/>
     <path
         android:pathData="m310.46,311.92 l-34.76,68.75h20.84c7.71,0 13.92,-6.21 13.92,-13.92v-54.83z"
         android:fillColor="#cfd8dc"/>
